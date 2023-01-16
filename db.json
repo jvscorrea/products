@@ -1,11 +1,132 @@
 {
-  "posts": [
+{
+        "id": 1,
+        "productCode": 14568,
+        "name": "Iron Grey",
+        "description": "Jogar a tradição pela porta? Nunca. A famosa designer Chitose Abe traz sua visão unificadora para um ícone do calçado - comemorando o 50º aniversário do primeiro clássico da Nike...",
+        "price": 1299.99,
+        "img": "product-1-1.webp",
+        "imgGallery": [
+            "product-1-2.webp",
+            "product-1-3.webp",
+            "product-1-4.webp"
+        ]
+    },
     {
-      "id": 1,
-      "title": "hello"
+        "id": 2,
+        "productCode": 32549,
+        "name": "Triple Black",
+        "description": "Perguntamos ao adivinho da Nike o que o seu futuro reserva. A resposta? Muito conforto. Construído em torno do conceito de point loading (tradução: grande capacidade de resposta...",
+        "price": 1999.99,
+        "img": "product-2-1.webp",
+        "imgGallery": [
+            "product-2-2.webp",
+            "product-2-3.webp",
+            "product-2-4.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "productCode": 98434,
+        "name": "Valerian Blue",
+        "description": "Originalmente criado para as quadras, o Dunk mais tarde foi para as ruas. Mais de 35 anos após sua estreia, a silhueta ainda oferece um estilo ousado e desafiador e continua...",
+        "price": 799.99,
+        "img": "product-3-1.webp",
+        "imgGallery": [
+            "product-3-2.webp",
+            "product-3-3.webp",
+            "product-3-4.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "productCode": 21548,
+        "name": "Cut Out",
+        "description": "Mostre o que tem dentro. Retirando-se do cofre dos maiores sucessos do AF1, esta nova versão do ícone do basquete dá vida ao fascínio dos cobiçados lançamentos...",
+        "price": 1099.99,
+        "img": "product-4-1.webp",
+        "imgGallery": [
+            "product-4-2.webp",
+            "product-4-3.webp",
+            "product-4-4.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "productCode": 79634,
+        "name": "Fragment Grey",
+        "description": "Chitose Abe da sacai e Hiroshi Fujiwara da Fragment já se uniram em colaborações diversas vezes no passado, tanto um com o outro, como com a Nike—e para essa última colaboração...",
+        "price": 1199.99,
+        "img": "product-5-1.webp",
+        "imgGallery": [
+            "product-5-2.webp",
+            "product-5-3.webp",
+            "product-5-4.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "productCode": 74236,
+        "name": "Argon",
+        "description": "Alguns dizem que a distância faz o coração crescer mais afeiçoado. No caso do 'Argon' Dunk, um sentimento mais verdadeiro nunca foi falado. Antes exclusivo do Japão...",
+        "price": 1199.99,
+        "img": "product-6-1.webp",
+        "imgGallery": [
+            "product-6-2.webp",
+            "product-6-3.webp",
+            "product-6-4.webp"
+        ]
+    },
+    {
+        "id": 7,
+        "productCode": 96423,
+        "name": "Bleached Coral",
+        "description": "Pronto para enfrentar o verão? Encontre o seu lugar em qualquer ambiente com esta colorway do Air Jordan 1 Low. Bleached Coral traz energia viva, enquanto o couro rachado...",
+        "price": 999.99,
+        "img": "product-7-1.webp",
+        "imgGallery": [
+            "product-7-2.webp",
+            "product-7-3.webp",
+            "product-7-4.webp"
+        ]
+    },
+    {
+        "id": 8,
+        "productCode": 18874,
+        "name": "Black and University Gold",
+        "description": "O primeiro tênis de assinatura NOCTA combina perfeitamente o espírito da marca. O design combina sem esforço a familiaridade retrô da Nike, conforto incomparáve...",
+        "price": 1499.99,
+        "img": "product-8-1.webp",
+        "imgGallery": [
+            "product-8-2.webp",
+            "product-8-3.webp",
+            "product-8-4.webp"
+        ]
+    },
+    {
+        "id": 9,
+        "productCode": 36574,
+        "name": "Game Royal and Vivid Sulfur",
+        "description": "Transite entre os mundos no AF1 x AMBUSH. A designer de moda e diretora criativa visionária Yoon Ahn aumenta o volume no visual icônico com tons ousados e toques coloridos...",
+        "price": 1699.99,
+        "img": "product-9-1.webp",
+        "imgGallery": [
+            "product-9-2.webp",
+            "product-9-3.webp",
+            "product-9-4.webp"
+        ]
+    },
+    {
+        "id": 10,
+        "productCode": 98214,
+        "name": "White",
+        "description": "Este AF1 de couro premium em branco triplo é uma carta de amor ao modelo clássico. Inspirado no livro de infância favorito de Drake, 'Love You Forever', e no sentimento da frase...",
+        "price": 1499.99,
+        "img": "product-10-1.webp",
+        "imgGallery": [
+            "product-10-2.webp",
+            "product-10-3.webp",
+            "product-10-4.webp"
+        ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
