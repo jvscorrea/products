@@ -1,5 +1,5 @@
-{
-{
+[
+    {
         "id": 1,
         "productCode": 14568,
         "name": "Iron Grey",
@@ -129,4 +129,4 @@
             "product-10-4.webp"
         ]
     }
-}
+]
